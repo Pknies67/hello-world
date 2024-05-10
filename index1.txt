@@ -10,7 +10,11 @@
 <p> This is the first fil ein my Git Repo.</p>
 <p> A new line in our file! </p>
 <p> New line testing testing </p>
+<<<<<<< HEAD
 p> This line is to show how merging works. </p> 
+=======
+
+>>>>>>> hellow-world-images
 
 </body>
 </html>
