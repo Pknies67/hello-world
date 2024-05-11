@@ -1,0 +1,61 @@
+[33mcommit b33c3a31ddf7a28ab78775e206a12019a612acff[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Pknies67 <phillknies71@gmail.com>
+Date:   Sat May 11 13:16:28 2024 -0400
+
+    Update README.md with w3school instruction
+
+[33mcommit 4d8418ddf76dd1f87380cd035158a6421c7d109e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 6ff4f98 92d8ddc
+Author: Pknies67 <phillknies71@gmail.com>
+Date:   Sat May 11 13:09:20 2024 -0400
+
+    Merge branch 'master' of https://github.com/Pknies67/hello-world
+
+[33mcommit 6ff4f984b7a0cccf5fed53fa379c1e86ee9c444e[m
+Author: Pknies67 <phillknies71@gmail.com>
+Date:   Sat May 11 13:05:35 2024 -0400
+
+    Trying to update index1
+
+[33mcommit 92d8ddcfb6d94e9d36cd494d9aad8330ba036596[m
+Author: Pknies67 <phillknies71@gmail.com>
+Date:   Sat May 11 12:56:58 2024 -0400
+
+    Update README.md in github with the test
+
+[33mcommit 9325d5ac62884b92a2f7d738a81b3889aaeec649[m
+Author: Pknies67 <phillknies71@gmail.com>
+Date:   Fri May 10 12:09:58 2024 -0400
+
+    Update README.md
+
+[33mcommit 615811dff154108965c73d5c5547a891bb1151a5[m
+Merge: eb66880 2aac1ce
+Author: Pknies67 <phillknies71@gmail.com>
+Date:   Thu May 9 20:08:31 2024 -0400
+
+    hopefully wokrs
+
+[33mcommit eb668805bf317a9d4daef14a6c091f15f484c91d[m
+Author: Pknies67 <phillknies71@gmail.com>
+Date:   Thu May 9 20:00:10 2024 -0400
+
+    updated index1.txt with emergency fix
+
+[33mcommit 2aac1ce2f71c486e137e0cf90b95de6079b6b1ae[m
+Author: Pknies67 <phillknies71@gmail.com>
+Date:   Thu May 9 19:43:00 2024 -0400
+
+    had to add editmsg from previous, ignore
+
+[33mcommit f8d285ae4ae0308a96964007997789849dd110ab[m
+Author: Pknies67 <phillknies71@gmail.com>
+Date:   Thu May 9 19:41:51 2024 -0400
+
+    added index1 to master branch from hellow world branch
+
+[33mcommit b1ce9770dd8570bff71ae094e8f5c7ef06e2421e[m
+Author: Pknies67 <phillknies71@gmail.com>
+Date:   Thu May 9 16:47:33 2024 -0400
+
+    First release of Hello World
