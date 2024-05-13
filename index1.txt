@@ -17,7 +17,7 @@ webbg
 More edits to refresh my memory we are committing again 
 Now we are messing on the skeleton branch and making edits
 Okey Now im eriting more lines to see what it does
-
+Now I'm writing edits in a different branch to see if git recognizes the new branch
 jbfgb3ibgh
 jkwdjef
 
