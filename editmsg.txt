@@ -4,6 +4,9 @@
 # with '#' will be ignored, and an empty message aborts the commit.
 #
 # On branch hellow-world-images
+Now I want to mess with this one and see what happens
+I am starting to get the hang of git bash and git hub 
+
 # Changes to be committed:
 #	new file:   index1.txt
 #
