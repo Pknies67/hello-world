@@ -12,6 +12,7 @@
 <p> New line testing testing </p>
 <p> This line is to show how merging works. </p> 
 <I am making more edits and going to attempt to update </p>
+More edits to refresh my memory we are committing again 
 
 </body>
 </html>
